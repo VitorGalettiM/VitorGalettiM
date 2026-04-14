@@ -1,7 +1,8 @@
 # 🧑🏻‍💻 Vitor Galetti Martins
 
 **`Desenvolvedor FullStack`**
-Me chamo Vitor Galetti Martins, tenho 22 anos e sou natural do Paraná. Concluí o ensino médio no Colégio Tesla e atualmente estou em fase de conclusão do curso de Engenharia de Software pela Unicesumar. Sou apaixonado por tecnologia e estou em constante busca por aprendizado e desenvolvimento na área, com foco em evoluir minhas habilidades técnicas e crescer profissionalmente como desenvolvedor.
+
+Me chamo Vitor Galetti Martins, tenho 22 anos e sou natural do Paraná. Concluí o ensino médio no Colégio Tesla e sou formado em Engenharia de Software pela Unicesumar. Sou apaixonado por tecnologia e estou em constante busca por aprendizado e desenvolvimento na área, com foco em evoluir minhas habilidades técnicas e crescer profissionalmente como desenvolvedor.
 
 
 ---
