@@ -9,6 +9,7 @@ Me chamo Vitor Galetti Martins, tenho 22 anos e sou natural do Paraná. Concluí
 
 ### 🤖 Linguagens e Tecnologias
 
+
 <img 
     align="left" 
     alt="HTML"
